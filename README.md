@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Job Market Insight Analysis
 ## Data Analysis with Pyhon's Pandas & Matplotlib
 ### Link
@@ -188,3 +189,6 @@ The final visualization:
 ![Data Scientist Salary Histogram](data_scientist_salaries.png)
 
 
+=======
+# AI Job Market Insights 
+>>>>>>> d8bcc03d4a5fa36d81ad8943ddbb30d4923c019b
